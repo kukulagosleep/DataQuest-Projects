@@ -1,2 +1,3 @@
-# DataQuest-Projects
-Solutions for projects available on the DataQuest site.
+# DataQuest Guided Projects
+
+This repository contains completed [DataQuest](https://www.dataquest.io) Guided Projects I've worked on.
